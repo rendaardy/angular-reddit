@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angular-reddit"
+  "defaultProject": "angular-reddit",
+  "cli": {
+    "defaultCollection": "@angular-eslint/schematics"
+  }
 }
